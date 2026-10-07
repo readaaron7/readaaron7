@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## My name is Aaron
+### I'm a first year student at WSU studying computer science
 <!--
 **readaaron7/readaaron7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
